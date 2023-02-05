@@ -4,7 +4,7 @@
 
 # bootstrapping_analysis
 Este projeto é um script que utiliza a técnica de reamostragem Bootstrapping para fornecer intervalos de confiança, auxiliando na amplificação de amostras dos dados para fomentar uma análise mais robusta e acurada.
-A documentação mais detalhada pode ser encontrada em [documentação]9https://docs.google.com/document/d/1uUY3nyZEf9qpaAYo15OMJyH44q_eBBOQNeRuc9tfeoo/edit).
+A documentação mais detalhada pode ser encontrada em [documentação](https://docs.google.com/document/d/1uUY3nyZEf9qpaAYo15OMJyH44q_eBBOQNeRuc9tfeoo/edit).
 
 ## Executando
 Para executar este trabalho, basta colocar no terminal 
